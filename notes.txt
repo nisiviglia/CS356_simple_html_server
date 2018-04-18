@@ -1,5 +1,0 @@
-used sites
-https://stackoverflow.com/questions/3053757/read-from-socket
-
-
-https://paulschreiber.com/blog/2005/10/28/simple-gethostbyname-example/
