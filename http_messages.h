@@ -18,7 +18,6 @@
 #include <arpa/inet.h>
 #include <netdb.h>
 
-#endif
 
 //Macros and globals
 #define SMALL_BUFF_SIZE 256
@@ -338,3 +337,4 @@ void free_http_response(struct http_response *response){
     }
 }
 
+#endif
